@@ -1,3 +1,4 @@
-;  if dead
-      then death
+;  
+if dead
+      then death=true
 ;
